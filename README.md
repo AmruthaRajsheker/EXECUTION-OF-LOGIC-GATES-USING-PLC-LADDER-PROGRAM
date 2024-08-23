@@ -10,7 +10,7 @@
 ### Aim:
 To implement and verify the functioning of basic logic gates (AND, OR, NOT, NAND, NOR, XOR) using a PLC ladder program and simulate the outputs.
 
-### Apparatus Required:
+### Apparatus Required:	
 Programmable Logic Controller (PLC) - A PLC with support for ladder logic programming.
 PLC Programming Software - Software like RSLogix, TIA Portal, or CX-Programmer.
 Computer System - To run the PLC programming software and perform simulations.
